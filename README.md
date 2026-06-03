@@ -13,7 +13,8 @@ Ces documents constituent la référence de la gouvernance de l’association.
 - documents relatifs à l’intérêt général ;
 - documents de séparation institutionnelle, politique, patrimoniale, entrepreneuriale ou technique ;
 - cartographie des dépôts liés ;
-- état synthétique du corpus.
+- état synthétique du corpus ;
+- audits de l’organisation GitHub et du corpus public.
 
 ## Documents structurants
 
@@ -21,6 +22,7 @@ Ces documents constituent la référence de la gouvernance de l’association.
 - [`interet-general-et-separation-politique.md`](interet-general-et-separation-politique.md) — intérêt général, égalité politique, DHITL, communs démocratiques et séparation politique.
 - [`cartographie-du-corpus.md`](cartographie-du-corpus.md) — cartographie des dépôts liés à C.O.R.S.I.C.A., à l’Institut Mariani et au corpus personnel de Jean Hugues Noël Robert.
 - [`etat-du-corpus.md`](etat-du-corpus.md) — état synthétique des dépôts, fonctions, documents de liaison et points à qualifier.
+- [`audit-organisation-2026-06-03.md`](audit-organisation-2026-06-03.md) — audit de l’organisation GitHub `acorsica` et des corrections réalisées le 3 juin 2026.
 
 ## Principe
 
@@ -46,7 +48,8 @@ gouvernance/
 ├── langue-de-reference.md
 ├── interet-general-et-separation-politique.md
 ├── cartographie-du-corpus.md
-└── etat-du-corpus.md
+├── etat-du-corpus.md
+└── audit-organisation-2026-06-03.md
 ```
 
 Chaque assemblée générale fait l’objet d’un dossier daté.
