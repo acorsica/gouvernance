@@ -22,8 +22,8 @@ Ils ne valent pas nécessairement fusion institutionnelle, portage juridique, fi
 | [`acorsica/gouvernance`](https://github.com/acorsica/gouvernance) | Gouvernance, traçabilité, intérêt général, séparation politique | Dépôt normatif de l’association |
 | [`acorsica/institut-mariani`](https://github.com/acorsica/institut-mariani) | Émanation R&D de C.O.R.S.I.C.A. | Dépôt institutionnel de recherche et développement |
 | [`acorsica/privai`](https://github.com/acorsica/privai) | Initiative PrivAI | Préfiguration au sein de l’Institut Mariani |
-| [`acorsica/Kudos`](https://github.com/acorsica/Kudos) | Dépôt à qualifier | Statut à préciser |
-| [`acorsica/marianivillage`](https://github.com/acorsica/marianivillage) | Dépôt à qualifier | Statut à préciser |
+| [`acorsica/Kudos`](https://github.com/acorsica/Kudos) | Monnaie complémentaire Kudos | Dépôt doctrinal, éditorial et pré-opérationnel relatif à la monnaie complémentaire Kudos |
+| [`acorsica/marianivillage`](https://github.com/acorsica/marianivillage) | Habitat minimaliste autonome étudiants / touristes à base de containers maritimes | Dépôt de projet territorial, social, écologique et technique |
 
 ## Dépôts personnels ou spécialisés liés
 
@@ -38,11 +38,27 @@ Ils ne valent pas nécessairement fusion institutionnelle, portage juridique, fi
 | [`JeanHuguesRobert/Inox`](https://github.com/JeanHuguesRobert/Inox) | Langage, runtime, substrat technique | [`acorsica-institut-mariani.md`](https://github.com/JeanHuguesRobert/Inox/blob/master/acorsica-institut-mariani.md) |
 | [`JeanHuguesRobert/pertitellu`](https://github.com/JeanHuguesRobert/pertitellu) | Petit Parti / Pertitellu | [`acorsica-separation-politique.md`](https://github.com/JeanHuguesRobert/pertitellu/blob/main/acorsica-separation-politique.md) |
 
-## Points à qualifier
+## Dépôts `acorsica` désormais qualifiés
 
-Les dépôts `acorsica/Kudos` et `acorsica/marianivillage` doivent être qualifiés : actifs, historiques, à relier, à archiver ou à réorganiser.
+### `acorsica/Kudos`
 
-Cette qualification doit être documentée avant toute décision de renommage, d’archivage ou de transfert de contenu.
+Kudos est le nom de la monnaie complémentaire conçue dans le corpus comme une couche publique, volontaire, nominative, transparente et traçable de don / contre-don, adossée à l’euro.
+
+Le dépôt `acorsica/Kudos` documente à la fois la monnaie complémentaire, son projet doctrinal et ses produits éditoriaux.
+
+Document source de référence : [`JeanHuguesRobert/barons-Mariani/research/kudos.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
+
+Document de statut : [`acorsica/Kudos/STATUT.md`](https://github.com/acorsica/Kudos/blob/main/STATUT.md)
+
+### `acorsica/marianivillage`
+
+Mariani Village est une initiative d’habitat minimaliste autonome à base de containers maritimes, destinée à loger des étudiants pendant l’année universitaire et des touristes ou occupants saisonniers pendant la saison estivale.
+
+Le dépôt `acorsica/marianivillage` documente cette initiative comme projet territorial, social, écologique et technique.
+
+Document source de référence : [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+
+Document de statut : [`acorsica/marianivillage/STATUT.md`](https://github.com/acorsica/marianivillage/blob/main/STATUT.md)
 
 ## Langue de référence
 
