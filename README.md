@@ -12,13 +12,15 @@ Ces documents constituent la référence de la gouvernance de l’association.
 - convocations ;
 - documents relatifs à l’intérêt général ;
 - documents de séparation institutionnelle, politique, patrimoniale, entrepreneuriale ou technique ;
-- cartographie des dépôts liés.
+- cartographie des dépôts liés ;
+- état synthétique du corpus.
 
 ## Documents structurants
 
 - [`langue-de-reference.md`](langue-de-reference.md) — langue française comme source normative des documents de gouvernance.
 - [`interet-general-et-separation-politique.md`](interet-general-et-separation-politique.md) — intérêt général, égalité politique, DHITL, communs démocratiques et séparation politique.
 - [`cartographie-du-corpus.md`](cartographie-du-corpus.md) — cartographie des dépôts liés à C.O.R.S.I.C.A., à l’Institut Mariani et au corpus personnel de Jean Hugues Noël Robert.
+- [`etat-du-corpus.md`](etat-du-corpus.md) — état synthétique des dépôts, fonctions, documents de liaison et points à qualifier.
 
 ## Principe
 
@@ -43,7 +45,8 @@ gouvernance/
 ├── assemblees_generales/
 ├── langue-de-reference.md
 ├── interet-general-et-separation-politique.md
-└── cartographie-du-corpus.md
+├── cartographie-du-corpus.md
+└── etat-du-corpus.md
 ```
 
 Chaque assemblée générale fait l’objet d’un dossier daté.
