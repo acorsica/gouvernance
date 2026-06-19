@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "institutional-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "institutional-document"
+classification_confidence: "medium"
+---
+
 # État du corpus
 
 Ce document synthétise l’état actuel des principaux dépôts liés à C.O.R.S.I.C.A., à l’Institut Mariani et au corpus personnel de Jean Hugues Noël Robert.
@@ -56,7 +67,7 @@ Mariani Village est une initiative d’habitat minimaliste autonome à base de c
 
 Le dépôt `acorsica/marianivillage` documente cette initiative comme projet territorial, social, écologique et technique.
 
-Document source de référence : [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+Document source de référence : [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 
 Document de statut : [`acorsica/marianivillage/STATUT.md`](https://github.com/acorsica/marianivillage/blob/main/STATUT.md)
 

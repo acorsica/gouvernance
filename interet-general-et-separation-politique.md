@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "institutional-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "institutional-document"
+classification_confidence: "medium"
+---
+
 # Intérêt général et séparation politique
 
 ## Objet

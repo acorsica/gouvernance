@@ -3,6 +3,14 @@ title: "Research Index - C.O.R.S.I.C.A. Gouvernance"
 description: "Navigation index for governance documents in the C.O.R.S.I.C.A. corpus."
 last_modified_at: 2026-06-19
 corpus_role: index
+document_role: "index"
+document_kind: "research-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-index"
+classification_confidence: "strong"
 ---
 # Research Index - C.O.R.S.I.C.A. Gouvernance
 

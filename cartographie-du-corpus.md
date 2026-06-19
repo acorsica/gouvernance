@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "institutional-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "institutional-document"
+classification_confidence: "medium"
+---
+
 # Cartographie du corpus
 
 Ce document cartographie les principaux dépôts liés à C.O.R.S.I.C.A., à l’Institut Mariani et au corpus personnel de Jean Hugues Noël Robert.

@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "institutional-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "institutional-document"
+classification_confidence: "medium"
+---
+
 # Langue de référence
 
 Les documents de gouvernance de l’association **C.O.R.S.I.C.A.** sont rédigés en français, langue de référence de l’association, constituée et administrée dans le cadre du droit français.
