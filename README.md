@@ -1,3 +1,23 @@
+---
+title: C.O.R.S.I.C.A. – Gouvernance
+author: unknown
+date: '2026-06-03'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: acorsica/gouvernance
+  origin_ref: b7e32dd
+  origin_date: '2026-06-03'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # C.O.R.S.I.C.A. – Gouvernance
 
 Ce dépôt contient les documents officiels de l’association **C.O.R.S.I.C.A.** (Corse Organisant la Réunion Sur Internet de Compétences Autonomes).
