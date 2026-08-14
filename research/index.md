@@ -1,7 +1,7 @@
 ---
 title: Research Index - C.O.R.S.I.C.A. Gouvernance
 description: Navigation index for governance documents in the C.O.R.S.I.C.A. corpus.
-last_modified_at: 2026-06-19T00:00:00.000Z
+last_modified_at: 2026-08-14T09:06:00.000+02:00
 corpus_role: index
 document_role: index
 document_kind: research-index
@@ -32,6 +32,7 @@ This repository is the public governance memory for C.O.R.S.I.C.A. It documents 
 
 | Title | Location | Notes |
 |---|---|---|
+| [Identité administrative et implantation](../identite-administrative.md) | this repo | Public administrative identity, operational offices, and traceable distinction from pending statutory change. |
 | [Langue de référence](../langue-de-reference.md) | this repo | French as reference language for governance documents. |
 | [Intérêt général et séparation politique](../interet-general-et-separation-politique.md) | this repo | Public-interest and institutional-separation doctrine. |
 | [Cartographie du corpus](../cartographie-du-corpus.md) | this repo | Map of related repositories and corpus boundaries. |
