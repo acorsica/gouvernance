@@ -26,6 +26,7 @@ Ces documents constituent la référence de la gouvernance de l’association.
 
 ## Contenu
 
+- identité administrative et implantation ;
 - statuts ;
 - règlements intérieurs ;
 - procès-verbaux d’assemblées générales ;
@@ -38,6 +39,7 @@ Ces documents constituent la référence de la gouvernance de l’association.
 
 ## Documents structurants
 
+- [`identite-administrative.md`](identite-administrative.md) — identité publique de l’association, bureaux opérationnels actuels et distinction avec les modifications statutaires en cours.
 - [`langue-de-reference.md`](langue-de-reference.md) — langue française comme source normative des documents de gouvernance.
 - [`interet-general-et-separation-politique.md`](interet-general-et-separation-politique.md) — intérêt général, égalité politique, DHITL, communs démocratiques et séparation politique.
 - [`cartographie-du-corpus.md`](cartographie-du-corpus.md) — cartographie des dépôts liés à C.O.R.S.I.C.A., à l’Institut Mariani et au corpus personnel de Jean Hugues Noël Robert.
@@ -65,6 +67,7 @@ gouvernance/
 ├── statuts/
 ├── reglement_interieur/
 ├── assemblees_generales/
+├── identite-administrative.md
 ├── langue-de-reference.md
 ├── interet-general-et-separation-politique.md
 ├── cartographie-du-corpus.md
