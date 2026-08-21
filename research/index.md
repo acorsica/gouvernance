@@ -1,7 +1,7 @@
 ---
 title: Research Index - C.O.R.S.I.C.A. Gouvernance
 description: Navigation index for governance documents in the C.O.R.S.I.C.A. corpus.
-last_modified_at: 2026-08-14T09:06:00.000+02:00
+last_modified_at: 2026-08-21T14:03:00.000+02:00
 corpus_role: index
 document_role: index
 document_kind: research-index
@@ -39,6 +39,12 @@ This repository is the public governance memory for C.O.R.S.I.C.A. It documents 
 | [État du corpus](../etat-du-corpus.md) | this repo | Synthetic state of the public corpus. |
 | [Audit organisation GitHub acorsica](../audit-organisation-2026-06-03.md) | this repo | Audit of the GitHub organization and public corpus setup. |
 | [Corpus Status](corpus-status.md) | this repo | Generated corpus view. |
+
+## Working research notes
+
+| Title | Location | Notes |
+|---|---|---|
+| [De la compétence autonome à l’Autonomie de Capacité](competences-autonomes-et-autonomie-de-capacite.md) | this repo | Continuité doctrinale entre le nom historique de C.O.R.S.I.C.A., la réunion de compétences autonomes sur Internet et la notion plus générale d’Autonomie de Capacité. |
 
 ## Related
 
