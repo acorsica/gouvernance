@@ -1,7 +1,7 @@
 ---
 title: "C.O.R.S.I.C.A. — Identité administrative et implantation"
 author: "Jean Hugues Noël Robert"
-date: "2026-08-14"
+date: "2026-09-01"
 document_role: "source"
 document_kind: "governance-record"
 visibility: "public"
@@ -10,8 +10,8 @@ update_policy: "UP-DEFAULT-REVIEWED"
 provenance:
   origin_type: "public-registry-and-declaration"
   origin_repository: "acorsica/gouvernance"
-  origin_ref: "conversation 2026-08-14"
-  origin_date: "2026-08-14"
+  origin_ref: "conversation 2026-09-01"
+  origin_date: "2026-09-01"
   derived_from:
     - "https://annuaire-entreprises.data.gouv.fr/entreprise/corse-organisant-la-reunion-sur-internet-de-competences-autonomes-c-o-r-s-i-c-a-840998520"
 review:
@@ -44,7 +44,25 @@ La fiche de l’Annuaire des Entreprises constitue une référence publique exte
 
 Cette adresse doit être comprise comme **adresse opérationnelle des bureaux** tant que la modification statutaire correspondante n’est pas définitivement adoptée et répercutée dans les registres publics applicables.
 
-## 3. Siège publié et changement statutaire
+## 3. Coordonnée fonctionnelle de la présidence
+
+À compter du **1er septembre 2026**, l’adresse fonctionnelle suivante est créée et testée comme opérationnelle :
+
+> **president@acorsica.org**
+
+Cette adresse est destinée aux correspondances adressées au **président de C.O.R.S.I.C.A. en tant que fonction**, et non à une identité personnelle distincte.
+
+Elle doit être privilégiée lorsqu’une correspondance concerne institutionnellement la présidence de l’association et peut rester stable indépendamment de la personne qui exerce la fonction.
+
+Statut au 1er septembre 2026 :
+
+- adresse créée ;
+- émission/réception testée par le président ;
+- fonctionnement déclaré opérationnel.
+
+Cette création n’invalide pas automatiquement les autres adresses de contact déjà utilisées par l’association ou son président ; leur statut doit être traité séparément.
+
+## 4. Siège publié et changement statutaire
 
 La fiche publique Sirene/Annuaire des Entreprises peut encore refléter une adresse antérieure du siège.
 
@@ -60,23 +78,26 @@ siège futur envisagé tant que la modification n’est pas adoptée
 
 Le présent document ne doit donc pas être lu comme constatant par anticipation une modification juridique déjà acquise.
 
-## 4. Principe de traçabilité
+## 5. Principe de traçabilité
 
-Lorsqu’une modification statutaire ou administrative devient effective, cette page doit être mise à jour en conservant la trace de la transition :
+Lorsqu’une modification statutaire, administrative ou opérationnelle devient effective, cette page doit être mise à jour en conservant la trace de la transition :
 
 ```text
 état publié antérieur
-→ décision statutaire
-→ formalités déclaratives
-→ nouvel état publié
+→ décision ou mise en service opérationnelle
+→ formalités éventuelles
+→ nouvel état publié / opérationnel
 ```
 
 L’objectif est de permettre la comparaison entre **état déclaré**, **état opérationnel** et **état public observable**, sans les confondre.
 
-## 5. Sources et vérification
+## 6. Sources et vérification
 
 Source publique principale consultée le 14 août 2026 :
 
 - https://annuaire-entreprises.data.gouv.fr/entreprise/corse-organisant-la-reunion-sur-internet-de-competences-autonomes-c-o-r-s-i-c-a-840998520
 
-Source interne pour l’adresse opérationnelle et l’état de préparation de la modification statutaire : déclaration du président de C.O.R.S.I.C.A. en date du 14 août 2026.
+Sources internes :
+
+- déclaration du président de C.O.R.S.I.C.A. en date du 14 août 2026 pour l’adresse opérationnelle et l’état de préparation de la modification statutaire ;
+- déclaration du président en date du 1er septembre 2026 indiquant que `president@acorsica.org` a été créé et testé avec succès.
