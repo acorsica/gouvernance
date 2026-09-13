@@ -5,6 +5,10 @@ document_role: source
 document_kind: policy
 visibility: public
 lifecycle_state: active
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Politique de licences
