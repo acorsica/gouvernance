@@ -1,27 +1,32 @@
 ---
-title: "C.O.R.S.I.C.A. — Identité administrative et implantation"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-01"
-document_role: "source"
-document_kind: "governance-record"
-visibility: "public"
-lifecycle_state: "active"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: C.O.R.S.I.C.A. — Identité administrative et implantation
+author: Jean Hugues Noël Robert
+date: '2026-09-01'
+document_role: source
+document_kind: governance-record
+visibility: public
+lifecycle_state: active
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "public-registry-and-declaration"
-  origin_repository: "acorsica/gouvernance"
-  origin_ref: "conversation 2026-09-01"
-  origin_date: "2026-09-01"
+  origin_type: public-registry-and-declaration
+  origin_repository: acorsica/gouvernance
+  origin_ref: conversation 2026-09-01
+  origin_date: '2026-09-01'
   derived_from:
-    - "https://annuaire-entreprises.data.gouv.fr/entreprise/corse-organisant-la-reunion-sur-internet-de-competences-autonomes-c-o-r-s-i-c-a-840998520"
+    - https://annuaire-entreprises.data.gouv.fr/entreprise/corse-organisant-la-reunion-sur-internet-de-competences-autonomes-c-o-r-s-i-c-a-840998520
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
 ---
+
 
 # C.O.R.S.I.C.A. — Identité administrative et implantation
 

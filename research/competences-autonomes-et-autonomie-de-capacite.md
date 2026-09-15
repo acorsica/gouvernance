@@ -1,30 +1,33 @@
 ---
-title: "De la compétence autonome à l’Autonomie de Capacité"
-author: "Jean Hugues Noël Robert"
-date: "2026-08-21"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "fr"
-license: "CC BY 4.0"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: De la compétence autonome à l’Autonomie de Capacité
+author: Jean Hugues Noël Robert
+date: '2026-08-21'
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
+language: fr
+license: CC BY 4.0
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "conversation"
-  origin_repository: "acorsica/gouvernance"
-  origin_ref: "main"
-  origin_date: "2026-08-21"
+  origin_type: conversation
+  origin_repository: acorsica/gouvernance
+  origin_ref: main
+  origin_date: '2026-08-21'
   derived_from:
-    - "nom historique de l’association C.O.R.S.I.C.A."
-    - "JeanHuguesRobert/barons-Mariani/research/autonomia/assistance_non_directive_capacitaire.md"
+    - nom historique de l’association C.O.R.S.I.C.A.
+    - JeanHuguesRobert/barons-Mariani/research/autonomia/assistance_non_directive_capacitaire.md
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
 ---
+
 
 # De la compétence autonome à l’Autonomie de Capacité
 

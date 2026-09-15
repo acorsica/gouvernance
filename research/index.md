@@ -1,7 +1,7 @@
 ---
 title: Research Index - C.O.R.S.I.C.A. Gouvernance
 description: Navigation index for governance documents in the C.O.R.S.I.C.A. corpus.
-last_modified_at: 2026-08-21T14:03:00.000+02:00
+last_modified_at: 2026-08-21T12:03:00.000Z
 corpus_role: index
 document_role: index
 document_kind: research-index
@@ -12,7 +12,7 @@ classification_version: '1'
 classification_rule: research-index
 classification_confidence: strong
 author: unknown
-date: unknown
+date: null
 provenance:
   origin_type: unknown
   origin_repository: unknown
@@ -23,7 +23,12 @@ review:
   status: unreviewed
   reviewed_by: []
 update_policy: UP-DEFAULT-REVIEWED
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+status: working-paper
 ---
+
 # Research Index - C.O.R.S.I.C.A. Gouvernance
 
 This repository is the public governance memory for C.O.R.S.I.C.A. It documents the association boundary, public-interest doctrine, institutional separation and corpus mapping.
