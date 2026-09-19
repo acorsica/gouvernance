@@ -57,3 +57,16 @@ This repository is the public governance memory for C.O.R.S.I.C.A. It documents 
 - [acorsica/institut-mariani](https://github.com/acorsica/institut-mariani)
 - [acorsica/privai](https://github.com/acorsica/privai)
 
+<!-- BEGIN_AUTO: index_catalog -->
+## Corpus catalog
+
+*Generated navigation. Editorial sections above remain human-maintained.*
+
+| Document | Role | Updated |
+|---|---|---|
+| [C.O.R.S.I.C.A. – Gouvernance](../README.md) | source | 2026-08-19 |
+| [gouvernance agent mandate](../AGENTS.md) | operational | 2026-08-11 |
+| [Politique de licences de C.O.R.S.I.C.A. — gouvernance publique](../LICENSING.md) | source | 2026-09-15 |
+| [Produits, services et publications de C.O.R.S.I.C.A.](../produits-et-publications.md) | source | 2026-08-19 |
+
+<!-- END_AUTO: index_catalog -->
