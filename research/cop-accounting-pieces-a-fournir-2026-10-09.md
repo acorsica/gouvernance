@@ -115,3 +115,23 @@ La boîte mail contient aussi des communications personnelles et des bulletins p
 4. **À qualifier :** le devis véhicule et toute demande liée au local (titulaire, mise à disposition, dépenses éventuellement prises en charge par C.O.R.S.I.C.A.).
 
 **Statut :** recherches dans messages effectuées, pièces jointes mentionnées mais non analysées ici, aucun solde ni paiement réel réconcilié. Conserver les contenus et données bancaires en accès restreint, hors GitHub public.
+
+## Hypothèse de flux et véhicules — déclaration du 9 octobre 2026 et vérification des mails
+
+**Déclaration du responsable :** hors frais bancaires de tenue de compte et assurances (dont possiblement un véhicule), C.O.R.S.I.C.A. n'aurait **aucune autre dépense et aucune recette**. **Statut : hypothèse initiale non réconciliée**, ni certification de flux nuls ni absence attestée de dette, cotisation ou avance. La période exacte à laquelle porte cette déclaration est encore à définir. Un relevé bancaire exhaustif par exercice et ses soldes d'ouverture/fermeture sont nécessaires pour confirmer le zéro recette, qualifier les éventuels frais, paiements et autres mouvements.
+
+### Véhicules — ne pas confondre les périodes ni devis et contrat
+
+- **AUTO-2020-01 : Toyota Land Cruiser** — [courriel MAIF du 19 janvier 2021](https://mail.google.com/mail/u/0/#all/1771a42d70fa685a) attestant expressément une **assurance souscrite le 5 novembre 2020**, rattachée à la référence sociétaire associative. La banque et la propriété du véhicule restent à vérifier. [Attestation VAM 2020 jointe](https://mail.google.com/mail/u/0/#all/17598f354732945d) et [relance carte grise du 16 février 2021](https://mail.google.com/mail/u/0/#all/177a9fc885350a6e) à examiner en privé. [Courriel du 16 avril 2021 « Fin contrat assurance 4x4 Toyota »](https://mail.google.com/mail/u/0/#all/178dacefab57af90), avec photo jointe **non examinée** : **fin évoquée, date et effectivité non vérifiées**.
+- **AUTO-2026-01 : Renault Clio** — [devis MAIF du 1er avril 2026](https://mail.google.com/mail/u/0/#all/19d4958293014420) et [demande de carte grise et convention de mise à disposition du 1er avril 2026](https://mail.google.com/mail/u/0/#all/19d4959e2e4a4af2). **Souscription, période, montant, règlement et couverture effective non démontrés.** Les documents joints n'ont pas été analysés.
+- **ASSUR-01 : RAQVAM Associations et Collectivités** — contrat d'association distinct de toute assurance automobile. [Conditions particulières signées 2024](https://mail.google.com/mail/u/0/#all/190299680e5f965d), [avenant demandé en 2025](https://mail.google.com/mail/u/0/#all/197e5f242d3403b0), signature/validité de l'avenant à confirmer.
+
+### Rapprochements ciblés
+
+1. Pour **chaque année**, relever tous les crédits/débits SG, **sans pré-filtrer** les catégories selon la déclaration d'absence de recettes.
+2. Identifier les frais de tenue de compte, intérêts, rétrocessions, remboursements, virements internes éventuels, et autres lignes : les crédits ne sont pas tous des produits, les débits pas tous des charges.
+3. Réconcilier l'assurance associative et les contrats automobiles par **numéro de contrat, période et véhicule**, puis prime due/versée et compte effectivement débité.
+4. Obtenir au besoin résiliations/avenants, cartes grises ou mises à disposition, attestations en vigueur et avis d'échéance ; **ne pas** déduire que l'association est propriétaire du véhicule assuré.
+5. Traiter les données inconnues comme `unknown`, pas zéro ; anomalie ouverte jusqu'à source confirmée.
+
+**Conclusion provisoire :** assurance du Toyota historiquement prouvée par une correspondance MAIF explicite (2020), fin potentielle évoquée en 2021 ; Renault Clio = projet de souscription en 2026, non assurance actuellement établie. Aucune recette zéro ni comptabilité simplifiée validée à ce stade.
