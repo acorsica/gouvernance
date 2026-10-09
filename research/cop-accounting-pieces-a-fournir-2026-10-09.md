@@ -72,3 +72,13 @@ Les justificatifs non publics restent hors des dépôts GitHub publics. Conserve
 Premier rapprochement réel réussi = **une ligne du relevé bancaire de C.O.R.S.I.C.A.**, un justificatif correspondant, le titulaire/payeur effectivement identifié, une date, un montant exact, et un statut de décision/autorisation documenté. Sans ces preuves, le résultat reste provisoire.
 
 Lien suivi : https://github.com/acorsica/gouvernance/issues/2
+
+## Signalement bancaire du 9 octobre 2026 — à vérifier
+
+**Déclaration du responsable associatif (non corroborée par relevé bancaire) :** Société Générale (SG) gère le compte bancaire de C.O.R.S.I.C.A. Le responsable dispose de l'application SG, inutilisée depuis longtemps, et indique l'existence d'une interface web.
+
+- **DOC-001 :** source bancaire **identifiée par déclaration**, accès effectif et période des relevés encore **non vérifiés**.
+- **Action humaine prioritaire :** retrouver l'accès SG officiel, vérifier le titulaire du compte et son état actuel, puis constater la période effectivement consultable et les formats d'export proposés, sans communiquer les identifiants ni codes d'authentification.
+- **Preuves à conserver dans un espace contrôlé :** relevés PDF authentiques par mois/exercice, et exports de mouvements (CSV/OFX si proposés). Ne jamais déposer les relevés intégraux, IBAN, soldes et données personnelles dans GitHub public.
+- **Si accès impossible :** garder l'exception ouverte et demander à la banque les modalités de récupération des anciens relevés et les éventuels frais. Ne pas extrapoler un solde ni considérer un compte comme clôturé faute de connexion.
+- **Information minimale de retour :** accès réussi ou non ; état ouvert/clôturé/indéterminé ; première et dernière dates de relevés visibles ; formats d'export ; périodes absentes.
