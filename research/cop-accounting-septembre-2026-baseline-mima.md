@@ -52,3 +52,23 @@ Valeurs fixées : 75,83 h/mois et 933,51 € brut/mois. **Coût employeur exact 
 Mode opératoire de simulation à reproduire : [Simulateur officiel URSSAF](https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net) : salarié, temps partiel 17 h 30/semaine, brut 933,51 €/mois, employeur de moins de 5 salariés, localité Corte (Haute-Corse), statut non-cadre à titre d'hypothèse mima, puis relever le coût total et les cotisations détaillées avec date et paramètres ; deuxième passe avec statut et salaire de **directeur** réellement comparables. Le statut cadre ne se présume pas. [Vérification Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/R45531).
 
 **Sortie:** `mima_gross_eur=933.51`, `mima_employer_cost_eur=null`, `director_reference_employer_cost_eur=null`, `hours_effectively_worked=null`. Comparaisons préparées, pas de coût employeur ou CVN chiffrés comme certifiés.
+
+## Estimation reproductible du coût employeur — 9 octobre 2026
+
+La formule officielle RGDU 2026 est documentée par [Service Public](https://entreprendre.service-public.gouv.fr/actualites/A18966) et [Urssaf](https://www.urssaf.fr/accueil/employeur/beneficier-exonerations/reduction-generale-cotisation.html). Sous hypothèse **un salarié, moins de 50 salariés, FNAL 0,10 %, mi-temps constant, brut mensuel 933,51 €, année entière à rémunération constante**, SMIC de référence RGDU = 1 823,03 € * 0,5 = 911,515 € par mois :
+
+`coefficient = 0.02 + 0.3781 * ((3*911.515/933.51 - 1)/2)^1.75 ≈ 0.3750` ; `allègement théorique mensuel ≈ 350,09 €` (à confirmer par assiette annuelle, régularisation et règles d'arrondi). Il ne s'agit **pas** du total des cotisations patronales : le coût final requiert leur assiette/taux avant réduction.
+
+Pour visualiser la sensibilité, seulement comme **hypothèses mathématiques de taux patronal total avant réduction**, et non comme taux réglementaires validés :
+
+| Taux global de charges avant allègement *supposé* | Coût = 933,51 × (1 + taux) − 350,09 |
+|---|---:|
+| 40 % | ≈ 956,82 €/mois |
+| 42 % | ≈ 975,49 €/mois |
+| 45 % | ≈ 1 003,50 €/mois |
+
+Ces valeurs **ne sont pas** une simulation URSSAF complète, une fourchette de taux officielle, ni le montant prêt à comptabiliser. Mutuelle, prévoyance, taxe, AT/MP, fraction non allégeable, règles d'éligibilité, structure de salaire, avantages et convention collective peuvent faire varier le résultat. Les montants strictement calculables à ce stade sont le SMIC brut, le coefficient théorique et l'allègement théorique, **pas** le coût global réel.
+
+### Baseline directeur : prochaine donnée manquante
+
+Le taux d'un directeur salarié ne peut pas être assimilé au SMIC sans examen de la qualification, des responsabilités, de la convention collective potentiellement applicable et de références salariales pour un poste à 17 h 30/semaine. Il convient de construire une **seconde hypothèse de rémunération documentée**, de réappliquer la RGDU (qui diminue lorsque le salaire augmente), et d'afficher séparément coût employeur et contribution bénévole constatée. **Le statut de président bénévole ne doit pas être requalifié en contrat de travail fictif.**
