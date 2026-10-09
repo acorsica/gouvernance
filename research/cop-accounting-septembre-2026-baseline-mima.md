@@ -40,3 +40,15 @@ Règle : comparer à durée identique ; conserver en parallèle les colonnes net
 - [Simulateur URSSAF du coût d'embauche](https://www.service-public.gouv.fr/particuliers/vosdroits/R45531) — estimation paramétrée, à ne pas confondre avec un devis contractuel.
 
 **Paramètres manquants** : convention collective applicable ou absence, régime de prévoyance et mutuelle, AT/MP, effectifs, implantation, situation du salarié type. Conserver `mima_charged_eur=null` tant que ces variables ne sont pas déterminées et la simulation documentée.
+
+## Scénario paramétré — septembre 2026 (simulation préparatoire)
+
+**Hypothèses:** association employeuse, un salarié directeur soumis au droit commun et à l'assurance chômage, CDI hypothétique, 17 h 30 hebdomadaires (50 % de 35 h), 933,51 € brut mensuel au SMIC en vigueur depuis le 1er juin 2026, effectif hypothétique inférieur à 50, Fnal 0,10 %. **Ce n'est ni une embauche réelle ni une déclaration sociale.**
+
+**Correction essentielle:** la réduction générale dégressive unique (RGDU) de 2026 utilise **le SMIC de référence gelé au 1er janvier 2026 (12,02 €/h, 1 823,03 € mensuels à temps plein)**, même si le salaire légal de septembre est de 12,31 €/h. Pour un mi-temps, la référence RGDU est proratisée. Ne pas simuler la réduction avec le SMIC de septembre par défaut ; le simulateur URSSAF 2026 indique intégrer la RGDU. [Service Public, 18 juin 2026](https://entreprendre.service-public.gouv.fr/actualites/A18966).
+
+Valeurs fixées : 75,83 h/mois et 933,51 € brut/mois. **Coût employeur exact non calculé par le simulateur dans ce travail**, faute de paramétrage complet des taux AT/MP, statut conventionnel, complémentaire santé, prévoyance, versement mobilité éventuel, avantages et autres charges ; ne pas convertir les 933,51 € en coût employeur à l'aide d'un multiplicateur générique. Le coût employeur est supérieur ou égal au brut augmenté des cotisations patronales nettes dues, sous réserve d'éventuelles aides distinctes et de la définition retenue.
+
+Mode opératoire de simulation à reproduire : [Simulateur officiel URSSAF](https://mon-entreprise.urssaf.fr/simulateurs/salaire-brut-net) : salarié, temps partiel 17 h 30/semaine, brut 933,51 €/mois, employeur de moins de 5 salariés, localité Corte (Haute-Corse), statut non-cadre à titre d'hypothèse mima, puis relever le coût total et les cotisations détaillées avec date et paramètres ; deuxième passe avec statut et salaire de **directeur** réellement comparables. Le statut cadre ne se présume pas. [Vérification Service Public](https://www.service-public.gouv.fr/particuliers/vosdroits/R45531).
+
+**Sortie:** `mima_gross_eur=933.51`, `mima_employer_cost_eur=null`, `director_reference_employer_cost_eur=null`, `hours_effectively_worked=null`. Comparaisons préparées, pas de coût employeur ou CVN chiffrés comme certifiés.
