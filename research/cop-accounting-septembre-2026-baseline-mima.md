@@ -72,3 +72,20 @@ Ces valeurs **ne sont pas** une simulation URSSAF complète, une fourchette de t
 ### Baseline directeur : prochaine donnée manquante
 
 Le taux d'un directeur salarié ne peut pas être assimilé au SMIC sans examen de la qualification, des responsabilités, de la convention collective potentiellement applicable et de références salariales pour un poste à 17 h 30/semaine. Il convient de construire une **seconde hypothèse de rémunération documentée**, de réappliquer la RGDU (qui diminue lorsque le salaire augmente), et d'afficher séparément coût employeur et contribution bénévole constatée. **Le statut de président bénévole ne doit pas être requalifié en contrat de travail fictif.**
+
+## Comparatif directeur — scénarios exploratoires (9 octobre 2026)
+
+La convention collective ne se déduit **pas** du seul statut associatif. Elle dépend de l'activité effective ; [Service Public, vérifié avril 2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F2607). La branche [ÉCLAT](https://www.legifrance.gouv.fr/conv_coll/id/KALISCTA000005725513/) est une piste à examiner, non une classification affirmée de C.O.R.S.I.C.A. Sa classification et ses valeurs de point ne seront appliquées qu'une fois le périmètre professionnel confirmé.
+
+Faute de grille de directeur confirmée, trois salaires **purement hypothétiques** de référence à temps plein sont proposés : 2 500, 3 000 et 3 500 € brut/mois. Sur 17 h 30 hebdomadaires, le salaire brut correspondant est la moitié. Hypothèse commune moins de 50 salariés, 2026, 1er janvier comme SMIC de calcul RGDU, salaire constant toute l'année, pas d'heures supplémentaires. Les coefficients suivent la [formule officielle 2026](https://www.economie.gouv.fr/entreprises/gerer-ses-ressources-humaines-et-ses-salaries/comment-fonctionne-la-reduction-generale-degressive-unique-rgdu-de-cotisations-patronales).
+
+| Hypothèse | Brut temps plein | Brut mi-temps | RGDU théorique mi-temps/mois | Coût illustratif avec cotisations patronales supposées à 42 % avant RGDU |
+|---|---:|---:|---:|---:|
+| Mima | 1 867,02 € | 933,51 € | 350,07 € | 975,52 € |
+| Directeur A | 2 500 € | 1 250 € | 214,88 € | 1 560,12 € |
+| Directeur B | 3 000 € | 1 500 € | 149,85 € | 1 980,15 € |
+| Directeur C | 3 500 € | 1 750 € | 106,93 € | 2 378,07 € |
+
+**IMPORTANT :** 42 % est un **paramètre de sensibilité arbitraire** pour comparer les scénarios, **ni un taux vérifié ni une simulation URSSAF**. Chiffres arrondis, avant mutuelle, prévoyance, médecine du travail, AT/MP spécifique, formation et contributions éventuelles hors hypothèse. Le coût employeur réel n'est **pas** encore déterminé. Il ne faut pas utiliser le tableau comme budget de paie ou comme écriture de CVN. Les montants RGDU sont annualisés théoriquement puis divisés par 12, et pourraient différer de la paie réelle selon la régularisation et les paramètres.
+
+**À trancher :** activité principale et convention éventuelle, niveau de responsabilité du poste fictif, référence externe de salaire de directeur, paramètres sociaux, nature de la durée de travail et justification des heures bénévoles effectives. Notre comparaison économique ne crée aucun contrat de travail.
