@@ -82,3 +82,36 @@ Lien suivi : https://github.com/acorsica/gouvernance/issues/2
 - **Preuves à conserver dans un espace contrôlé :** relevés PDF authentiques par mois/exercice, et exports de mouvements (CSV/OFX si proposés). Ne jamais déposer les relevés intégraux, IBAN, soldes et données personnelles dans GitHub public.
 - **Si accès impossible :** garder l'exception ouverte et demander à la banque les modalités de récupération des anciens relevés et les éventuels frais. Ne pas extrapoler un solde ni considérer un compte comme clôturé faute de connexion.
 - **Information minimale de retour :** accès réussi ou non ; état ouvert/clôturé/indéterminé ; première et dernière dates de relevés visibles ; formats d'export ; périodes absentes.
+
+## Recherche dans les courriels — SG et MAIF (9 octobre 2026)
+
+La boîte mail contient aussi des communications personnelles et des bulletins publicitaires ; un message reçu sur une boîte personnelle ne suffit ni à l'imputer à l'association ni à attester une dépense. La séparation par **titulaire/objet/contrat**, non par adresse de réception, est obligatoire.
+
+### SG : pièces associatives identifiées
+
+- **SG-ASSO-01 — 15 janvier 2021** : courriel « Solde 15/01/21 CORSICA société générale », avec **pièce jointe nommée** `synthese_des_comptes_au_15012021.pdf` ([message](https://mail.google.com/mail/u/0/#all/177067d8ee69725f)). **Forte attribution association par l'objet**, mais le contenu PDF et son titulaire n'ont pas encore été examinés : pièce à lire et vérifier en espace contrôlé.
+- **SG-ASSO-02 — 14 juillet 2022** : historique Trello mentionnant le compte CORSICA et **Progéliance Net limité à consultation**, faute de dossier client actualisé ([message](https://mail.google.com/mail/u/0/#all/181fcd8860e3fd7d)). Historique, **pas preuve d'un blocage toujours actif en 2026**.
+- **SG-ASSO-03 — 6 février 2024** : SG demande KYC/CRS, statuts et justificatifs de gouvernance, et annonce ses dernières versions connues des statuts et PV ([message](https://mail.google.com/mail/u/0/#all/18d7da1c8d0da5b9)), avec pièces jointes **Fiche Déclarative Organisme sans but Lucratif.pdf** et **CRS.pdf**. Question ouverte : réponses et mise à jour effectivement acceptées par SG ?
+- **SG-ASSO-04 — 20 mai 2020** : message relatif aux difficultés d'accès au compte SG associatif ([message](https://mail.google.com/mail/u/0/#all/172311de572117fa)). Historique, pas état actuel.
+- **SG-ASSO-05 — 2022** : [carte Trello compte CORSICA](https://trello.com/c/oWQJYAnn/410-soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-compte-bancaire-corsica). À consulter si accès autorisé, sans présumer son contenu actuel.
+
+**Séparation :** les offres d'épargne, de cartes personnelles, les newsletters « Monsieur Robert » et les échanges « LOA Wire Request » de 2017 n'attestent pas de mouvements du compte associatif ; ils sont exclus de l'inventaire financier C.O.R.S.I.C.A., sauf contre-preuve ultérieure.
+
+### MAIF : contrat associatif et pièces
+
+- **MAIF-ASSO-01 — 18 juin 2024** : confirmation de signature d'un contrat sous référence sociétaire associative et PDF **CP_01-Vam.pdf** (conditions particulières) ([message](https://mail.google.com/mail/u/0/#all/190299680e5f965d)). **Pièce contractuelle fortement prioritaire.**
+- **MAIF-ASSO-02 — 7 juillet 2025** : MAIF désigne explicitement CORSICA comme détentrice de son contrat **RAQVAM Associations et Collectivités** ; avenant proposé ([message](https://mail.google.com/mail/u/0/#all/197e5f242d3403)). Signature de l'avenant **à vérifier**, un message ultérieur signale une difficulté de signature ([message](https://mail.google.com/mail/u/0/#all/197e744ee2c24c46)).
+- **MAIF-ASSO-03 — 1er avril 2026** : devis d'assurance véhicule joint (**DEVISVAM_MAIL-PDF.pdf**) et correspondance concernant la mise à disposition d'un véhicule ; **ne pas présumer qu'il a été assuré** ni qu'il appartient à l'association ([devis](https://mail.google.com/mail/u/0/#all/19d4958293014420), [correspondance](https://mail.google.com/mail/u/0/#all/19d4959e2e4a4af2)).
+- **MAIF-ASSO-04 — juillet/août 2026** : demandes d'actualisation des informations de la structure ([message](https://mail.google.com/mail/u/0/#all/1a0011ce14b7e9eb)). Forme largement générique : mise à jour effective **non vérifiée**.
+- **MAIF-ASSO-05 — 6 juillet 2026** : déclaration conservatoire d'un incident dans le local de l'association annoncée par correspondance avec le syndic ([message](https://mail.google.com/mail/u/0/#all/19f37d971e6b29bf)). **Un dossier de sinistre, une déclaration reçue et la garantie applicable restent à établir**.
+
+**Séparation :** les campagnes MAIF d'information et les correspondances immobilières adressées à titre individuel ne sont pas, à elles seules, des primes, remboursements ou sinistres de C.O.R.S.I.C.A.
+
+### Pièces humaines à récupérer en priorité
+
+1. **SG :** PDF de synthèse daté de janvier 2021 ; relevés complets de l'association ; état actuel de l'abonnement Progéliance Net ; accusé de traitement KYC 2024, s'il existe.
+2. **MAIF :** conditions particulières signées 2024 ; échéanciers et appels de cotisation 2024–2026 ; avis d'échéance/attestations 2026 ; preuve de règlement et éventuel avenant signé.
+3. **À rapprocher :** débit bancaire SG correspondant à chaque cotisation MAIF, montant et date exacts, justificatif de paiement et période de couverture.
+4. **À qualifier :** le devis véhicule et toute demande liée au local (titulaire, mise à disposition, dépenses éventuellement prises en charge par C.O.R.S.I.C.A.).
+
+**Statut :** recherches dans messages effectuées, pièces jointes mentionnées mais non analysées ici, aucun solde ni paiement réel réconcilié. Conserver les contenus et données bancaires en accès restreint, hors GitHub public.
